@@ -1,0 +1,10 @@
+p::selection {
+  background: green;
+  color: white;
+}
+
+p::first-letter {
+  font-size: 2rem;
+  font-family: bold;
+  font-family: sans-serif;
+}
